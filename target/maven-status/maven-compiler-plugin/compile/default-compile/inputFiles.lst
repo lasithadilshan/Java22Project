@@ -1,0 +1,10 @@
+/workspaces/Java22Project/src/main/java/com/example/Constants.java
+/workspaces/Java22Project/src/main/java/com/example/AppConfig.java
+/workspaces/Java22Project/src/main/java/com/example/Main.java
+/workspaces/Java22Project/src/main/java/com/example/records/Person.java
+/workspaces/Java22Project/src/main/java/com/example/records/RecordPatternDemo.java
+/workspaces/Java22Project/src/main/java/com/example/concurrency/VirtualThreadsDemo.java
+/workspaces/Java22Project/src/main/java/com/example/concurrency/StructuredConcurrencyDemo.java
+/workspaces/Java22Project/src/main/java/com/example/switchs/SwitchPatternDemo.java
+/workspaces/Java22Project/src/main/java/com/example/utils/Logger.java
+/workspaces/Java22Project/src/main/java/com/example/json/JsonProcessor.java
